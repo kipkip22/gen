@@ -27,7 +27,6 @@ var til = [
 "You make me so wet: ",
 "Klick to open watch Video: ",
 "contact me here:",
-
 ];
 var stats = 
 ["J'ai manqué les caresses d'un homme, ce désir est insupportable.",
